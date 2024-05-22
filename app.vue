@@ -7,4 +7,5 @@
     - Data: testdnslq-dev-with-cname.netlify.app.<br/>
     - TTL: 1 hour<br/>
   </div>
+  <div>test branch preview</div>
 </template>
