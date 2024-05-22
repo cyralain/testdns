@@ -1,5 +1,6 @@
 <template>
   <div>
-    <NuxtWelcome />
+    Branche : dev-with-cname<br/>
+    DNS : ...
   </div>
 </template>
