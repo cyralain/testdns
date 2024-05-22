@@ -1,5 +1,10 @@
 <template>
   <div>
-    <NuxtWelcome />
+    Branche : dev-33<br/>
+    DNS : <br/>
+    - Type: ns<br/>
+    - Name: dev-33<br/>
+    - Data: dns1.p02.nsone.net.<br/>
+    - TTL: 1 hour<br/>
   </div>
 </template>
