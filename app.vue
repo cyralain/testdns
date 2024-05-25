@@ -7,7 +7,7 @@
     - Data: dns1.p02.nsone.net.<br/>
     - TTL: 1 hour<br/>
 
-  - Test ABC
+  - Test early access
   
   </div>
 
