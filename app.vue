@@ -1,5 +1,11 @@
 <template>
   <div>
-    <NuxtWelcome />
+    Branche : prod<br/>
+    <br/>
+
+  - Test prod
+  
   </div>
+
+  
 </template>
